@@ -1,4 +1,4 @@
-# Propane ⚡  
+# Propane  
 hi! i'm arthur — i'm 11 and i love programming.  
 sometimes i build cool stuff, and this is one of them!
 
@@ -58,7 +58,7 @@ but those are not all commands.
 
 ## ❓why the name "propane"?
 
-because it’s a fuel — and this mod fuels your FPS 🔥 (and because naming optimization mods chemicals are very popular)
+because it’s a fuel — and this mod fuels your FPS! (and because naming optimization mods chemicals are very popular)
 
 ---
 
